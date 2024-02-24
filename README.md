@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi Fellow Programmer ! This is my profile...</h2>
+<h2 align="left">Hello I'm Sunikhil thakur </h2>
 ###
 
 <div align="left">
