@@ -9,4 +9,5 @@ With strong proficiency in C++ and Java, I have a solid foundation in Data Struc
 🔍 I’m currently seeking opportunities to apply and grow my skills in real-world projects — always excited to tackle new challenges and contribute meaningfully to impactful work!
 
 linkedin : https://www.linkedin.com/in/sunikhil-thakur-022813227/
+
 portfolio : https://sunikhil-portfolio.onrender.com/#portfolio
