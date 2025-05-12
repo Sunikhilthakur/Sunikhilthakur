@@ -11,3 +11,5 @@ With strong proficiency in C++ and Java, I have a solid foundation in Data Struc
 linkedin : https://www.linkedin.com/in/sunikhil-thakur-022813227/
 
 portfolio : https://sunikhil-portfolio.onrender.com/#portfolio
+
+leetcode : https://leetcode.com/u/Sunikhilthakur/
