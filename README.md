@@ -7,3 +7,5 @@ With strong proficiency in C++ and Java, I have a solid foundation in Data Struc
 🚀 Committed to continuous learning, I actively stay updated with emerging tech trends and enjoy integrating modern tools and frameworks into my projects. I thrive in dynamic environments that demand creativity, innovation, and a deep understanding of programming fundamentals.
 
 🔍 I’m currently seeking opportunities to apply and grow my skills in real-world projects — always excited to tackle new challenges and contribute meaningfully to impactful work!
+
+linkedin : https://www.linkedin.com/in/sunikhil-thakur-022813227/
